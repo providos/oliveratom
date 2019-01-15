@@ -25,7 +25,7 @@ body {
     color: #fff;
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
-    background-image:url(../img/circuit.png); 
+    background-image:url(circuit.png); 
     background-repeat:no-repeat;
     background-position:95% 100%; /*position X for horizontal position and position Y for vertical*/
     background-size: 15%;
